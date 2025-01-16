@@ -19,7 +19,7 @@ Frontend: [e.g. Tkinter and python L systems]
 Database: [e.g. MySQL]
 Authentication: [e.g. bcrypt for password hashing]
 
-# Usage and Structure
+# Usage and Structures
 (Python) Integrate both signuo and signin files in a zipped common path folder, make a change in directory code to implement and run.
 (MySQL) Add same database as used and use mysql command client to serve you better.
 
